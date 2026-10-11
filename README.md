@@ -60,7 +60,7 @@ The global Revenue Intelligence market is estimated at **~$3.8 Billion to $4.5 B
 
 ## ⚡ Open-Source GitHub Projects
 
-The open-source ecosystem provides robust options for self-hosted CRM data ingestion, pipeline health analysis, RevOps metrics decomposition, and AI-driven conversation intelligence. Below is a curated list sorted by **GitHub Star Count (descending)**.
+The open-source ecosystem provides robust options for self-hosted CRM data ingestion, pipeline health analysis, RevOps metrics decomposition, and AI-driven conversation intelligence. Below is a curated list sorted by **GitHub Stars_Count (descending)**.
 
 - **[Apache Superset](https://github.com/apache/superset)** [![Stars](https://img.shields.io/github/stars/apache/superset?style=social&color=white)](https://github.com/apache/superset/stargazers)
   **Leading open-source BI platform**, Apache-2.0 licensed. **Rich visualizations for pipeline dashboards and forecast analytics**. **Best for revenue BI dashboards**.
